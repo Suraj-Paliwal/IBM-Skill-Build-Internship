@@ -30,7 +30,7 @@ The dataset "Analysis of Super Store - DA.csv" contains sales and order details 
 
 ---
 
-![Super Store](link-to-image.png) _(You can add an image related to the project here.)_
+![Super Store](Screenshot 2023-07-24 024652.png) _(You can add an image related to the project here.)_
 
 Feel free to explore the project files and documentation for a detailed analysis of the Super Store's sales data. Your feedback and contributions are welcome!
 
