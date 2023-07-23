@@ -30,7 +30,7 @@ The dataset "Analysis of Super Store - DA.csv" contains sales and order details 
 
 ---
 
-![Super Store](Screenshot 2023-07-24 024652.png) _(You can add an image related to the project here.)_
+![Super Store]([Screenshot 2023-07-24 024652](https://github.com/Suraj-Paliwal/IBM-Skill-Build-Internship/blob/main/Screenshot%202023-07-24%20024652.png).png) _(You can add an image related to the project here.)_
 
 Feel free to explore the project files and documentation for a detailed analysis of the Super Store's sales data. Your feedback and contributions are welcome!
 
